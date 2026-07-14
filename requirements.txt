@@ -1,0 +1,10 @@
+streamlit>=1.56,<2
+torch
+torchvision
+numpy
+pandas
+Pillow
+grad-cam==1.5.5
+opencv-python-headless
+scikit-learn
+matplotlib
