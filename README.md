@@ -1,4 +1,4 @@
-# 🫁 MedVision AI
+# MedVision AI
 
 > AI-powered chest X-ray analysis with explainable deep learning.
 
@@ -8,7 +8,6 @@
 ![GradCAM](https://img.shields.io/badge/Explainability-GradCAM-cyan)
 ![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-green)
 
----
 
 ## Overview
 
@@ -25,7 +24,6 @@ The application allows users to upload a chest X-ray and receive:
 
 This project demonstrates an end-to-end AI workflow from data preprocessing through deployment.
 
----
 
 ## Features
 
@@ -39,7 +37,6 @@ This project demonstrates an end-to-end AI workflow from data preprocessing thro
 - Research report generation
 - Analysis history tracking
 
----
 
 ## Model
 
@@ -53,7 +50,6 @@ Task:
 
 No Finding vs Pneumonia
 
----
 
 ## Dataset
 
@@ -61,7 +57,6 @@ NIH ChestX-ray14 Dataset
 
 This repository does **not** include the dataset due to licensing and file size.
 
----
 
 ## Results
 
@@ -73,7 +68,6 @@ Held-out Test Set
 | Sensitivity | **76.3%** |
 | Specificity | **65.1%** |
 
----
 
 ## Technology Stack
 
@@ -86,7 +80,6 @@ Held-out Test Set
 - Pillow
 - Grad-CAM
 
----
 
 ## Disclaimer
 
@@ -94,7 +87,6 @@ This project is an educational research prototype.
 
 It is **not** a medical device and must **not** be used for diagnosis or clinical decision-making.
 
----
 
 ## Future Work
 
@@ -107,7 +99,6 @@ It is **not** a medical device and must **not** be used for diagnosis or clinica
 - Confidence calibration
 - Faster inference
 
----
 
 ## Author
 
